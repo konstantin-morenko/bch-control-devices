@@ -1,0 +1,868 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="45mm"
+   height="65mm"
+   viewBox="0 0 45 65"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
+   sodipodi:docname="блок-схемы.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="1.0733976"
+     inkscape:cx="993.57403"
+     inkscape:cy="78.256183"
+     inkscape:window-width="1920"
+     inkscape:window-height="1031"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid9"
+       units="mm"
+       spacingx="1"
+       spacingy="1"
+       originx="0"
+       originy="0" />
+    <inkscape:page
+       x="0"
+       y="0"
+       width="45"
+       height="65"
+       id="page3464" />
+    <inkscape:page
+       x="50.000001"
+       y="0"
+       width="120"
+       height="99.999998"
+       id="page3466" />
+    <inkscape:page
+       x="175"
+       y="0"
+       width="100.00001"
+       height="90"
+       id="page6365" />
+    <inkscape:page
+       x="280"
+       y="0"
+       width="55.000008"
+       height="85"
+       id="page7614" />
+    <inkscape:page
+       x="340.00001"
+       y="0"
+       width="50.000001"
+       height="84.999998"
+       id="page7616" />
+    <inkscape:page
+       x="395.00001"
+       y="0"
+       width="50.000001"
+       height="84.999998"
+       id="page7688" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Arrow1L"
+       refX="6"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow1L"
+       markerWidth="8.75"
+       markerHeight="5"
+       viewBox="0 0 8.75 5"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="arrow1L"
+         transform="scale(-0.5)" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#800000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:none"
+       d="M 55,70 H 160 V 90 H 55 Z"
+       id="path3460"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:none;stroke:#800000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:none"
+       d="M 55,10 H 160 V 38 H 55 Z"
+       id="path3456" />
+    <path
+       style="fill:none;stroke:#800000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:none"
+       d="M 55,40 H 160 V 68 H 55 Z"
+       id="path3458" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
+       id="rect308"
+       width="35"
+       height="15"
+       x="5"
+       y="11" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="8.5969238"
+       y="20.119434"
+       id="text364"><tspan
+         sodipodi:role="line"
+         id="tspan362"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="8.5969238"
+         y="20.119434">инструкция1;</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
+       id="rect571"
+       width="35.076649"
+       height="19.880566"
+       x="4.4616761"
+       y="34" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:start;text-anchor:start;stroke-width:0.264583"
+       x="10.04165"
+       y="39.606846"
+       id="text575"><tspan
+         sodipodi:role="line"
+         id="tspan573"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="10.04165"
+         y="39.606846">{</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="10.04165"
+         y="44.898506"
+         id="tspan577">    блок1;</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="10.04165"
+         y="50.19017"
+         id="tspan579">}</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1L);stroke-dasharray:none"
+       d="m 22,3 v 8"
+       id="path635" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1L);stroke-dasharray:none"
+       d="m 22,26 v 8"
+       id="path1605" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1L);stroke-dasharray:none"
+       d="m 22,54 v 8"
+       id="path1613" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:none"
+       d="M 64.999999,23 84.999998,33 105,23 84.999999,13 Z"
+       id="path3197"
+       sodipodi:nodetypes="ccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="74.897881"
+       y="24.086115"
+       id="text3201"><tspan
+         sodipodi:role="line"
+         id="tspan3199"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="74.897881"
+         y="24.086115">условие1</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:none"
+       d="M 65,53 84.999999,63 105,53 85,43 Z"
+       id="path3203"
+       sodipodi:nodetypes="ccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="74.897881"
+       y="54.086113"
+       id="text3207"><tspan
+         sodipodi:role="line"
+         id="tspan3205"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="74.897881"
+         y="54.086113">условие2</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1L);stroke-dasharray:none"
+       d="m 85,5 v 8"
+       id="path3217" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1L);stroke-dasharray:none"
+       d="M 85,33 V 43"
+       id="path3221"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1L);stroke-dasharray:none"
+       d="M 85,63 V 73"
+       id="path3274"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
+       id="rect3278"
+       width="35"
+       height="15"
+       x="67"
+       y="73" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="70.596924"
+       y="82.119431"
+       id="text3282"><tspan
+         sodipodi:role="line"
+         id="tspan3280"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="70.596924"
+         y="82.119431">инструкция3;</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
+       id="rect3284"
+       width="35"
+       height="15"
+       x="120"
+       y="45" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="123.59692"
+       y="54.119431"
+       id="text3288"><tspan
+         sodipodi:role="line"
+         id="tspan3286"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="123.59692"
+         y="54.119431">инструкция2;</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
+       id="rect3290"
+       width="35"
+       height="15"
+       x="120"
+       y="15" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="123.59692"
+       y="24.119431"
+       id="text3294"><tspan
+         sodipodi:role="line"
+         id="tspan3292"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="123.59692"
+         y="24.119431">инструкция1;</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1L);stroke-dasharray:none"
+       d="m 105,23 h 15"
+       id="path3298"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1L);stroke-dasharray:none"
+       d="m 105,53 h 15"
+       id="path3302"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1L);stroke-dasharray:none"
+       d="m 135,93 v 5"
+       id="path3312"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1L);stroke-dasharray:none"
+       d="m 85,88 v 5 h 50"
+       id="path3316"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1L);stroke-dasharray:none"
+       d="M 165,53 V 93 H 135"
+       id="path3320"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1L);stroke-dasharray:none"
+       d="m 155,53 h 10"
+       id="path3336"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1L);stroke-dasharray:none"
+       d="m 155,23 h 10 v 30"
+       id="path3340"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="104.73129"
+       y="20.960037"
+       id="text3389"><tspan
+         sodipodi:role="line"
+         id="tspan3387"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="104.73129"
+         y="20.960037">истина</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="104.73129"
+       y="50.960037"
+       id="text3393"><tspan
+         sodipodi:role="line"
+         id="tspan3391"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="104.73129"
+         y="50.960037">истина</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="86.731285"
+       y="36.580608"
+       id="text3397"><tspan
+         sodipodi:role="line"
+         id="tspan3395"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="86.731285"
+         y="36.580608">ложь</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="87.41436"
+       y="65.960037"
+       id="text3401"><tspan
+         sodipodi:role="line"
+         id="tspan3399"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="87.41436"
+         y="65.960037">ложь</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583;fill:#800000"
+       x="56.25404"
+       y="15"
+       id="text3470"><tspan
+         sodipodi:role="line"
+         id="tspan3468"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;stroke-width:0.264583;fill:#800000"
+         x="56.25404"
+         y="15">if</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583;fill:#800000"
+       x="56.156681"
+       y="44.940056"
+       id="text3474"><tspan
+         sodipodi:role="line"
+         id="tspan3472"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;stroke-width:0.264583;fill:#800000"
+         x="56.156681"
+         y="44.940056">elif</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583;fill:#800000"
+       x="56.055397"
+       y="74.940056"
+       id="text3478"><tspan
+         sodipodi:role="line"
+         id="tspan3476"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;stroke-width:0.264583;fill:#800000"
+         x="56.055397"
+         y="74.940056">else</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:none"
+       d="M 185,23 205,33 225,23 205,13 Z"
+       id="path4285"
+       sodipodi:nodetypes="ccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="193.02791"
+       y="24.119434"
+       id="text4289"><tspan
+         sodipodi:role="line"
+         id="tspan4287"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="193.02791"
+         y="24.119434">переменная</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1L);stroke-dasharray:none"
+       d="m 205,5 v 8"
+       id="path4291" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
+       id="rect4365"
+       width="35"
+       height="15"
+       x="225"
+       y="40" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="228.59691"
+       y="49.119431"
+       id="text4369"><tspan
+         sodipodi:role="line"
+         id="tspan4367"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="228.59691"
+         y="49.119431">инструкция1;</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1L)"
+       d="m 205.00001,48 h 20"
+       id="path4371"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1L)"
+       d="m 260.00001,48 h 10 L 270,71"
+       id="path4373"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="206.76711"
+       y="45.960037"
+       id="text4377"><tspan
+         sodipodi:role="line"
+         id="tspan4375"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="206.76711"
+         y="45.960037">значение1</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
+       id="rect5206"
+       width="35"
+       height="15"
+       x="225"
+       y="63" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="228.59691"
+       y="72.119431"
+       id="text5210"><tspan
+         sodipodi:role="line"
+         id="tspan5208"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="228.59691"
+         y="72.119431">инструкция2;</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1L)"
+       d="m 205.00002,71 h 20"
+       id="path5212"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1L)"
+       d="m 260.00002,71 h 10"
+       id="path5214"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="206.76711"
+       y="68.960037"
+       id="text5218"><tspan
+         sodipodi:role="line"
+         id="tspan5216"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="206.76711"
+         y="68.960037">остальные</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 205,33 1e-5,38"
+       id="path5222"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#800000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 200,36 h 65 l 0,21 h -65 z"
+       id="path5573"
+       sodipodi:nodetypes="ccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583;fill:#800000"
+       x="207.25404"
+       y="40"
+       id="text5577"><tspan
+         sodipodi:role="line"
+         id="tspan5575"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;stroke-width:0.264583;fill:#800000"
+         x="207.25404"
+         y="40">case</tspan></text>
+    <path
+       style="fill:none;stroke:#800000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 200,59.370913 h 65 v 20 l -65,1 z"
+       id="path6317"
+       sodipodi:nodetypes="ccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#800000;stroke-width:0.264583"
+       x="207.25404"
+       y="63.370914"
+       id="text6321"><tspan
+         sodipodi:role="line"
+         id="tspan6319"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;fill:#800000;stroke-width:0.264583"
+         x="207.25404"
+         y="63.370914">default</tspan></text>
+    <path
+       style="fill:none;stroke:#800000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 181.80135,7.3709127 85.19865,0 L 267,82 181.80135,82 Z"
+       id="path6359"
+       sodipodi:nodetypes="ccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#800000;stroke-width:0.264583"
+       x="184.05539"
+       y="11.940056"
+       id="text6363"><tspan
+         sodipodi:role="line"
+         id="tspan6361"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;fill:#800000;stroke-width:0.264583"
+         x="184.05539"
+         y="11.940056">switch</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1L)"
+       d="m 270,71 -0.125,15.75"
+       id="path6419"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 290,15 4.99999,-5 h 27.00002 L 327,15 v 15 h -37 z"
+       id="path7347"
+       sodipodi:nodetypes="ccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="292"
+       y="65.408821"
+       id="text7351"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="292"
+         y="65.408821"
+         id="tspan7353">имя цикла</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583;fill:#800000"
+       x="292"
+       y="20"
+       id="text7359"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;stroke-width:0.264583;fill:#800000"
+         x="292"
+         y="20"
+         id="tspan7357">инициализация</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583;fill:#800000"
+       x="292"
+       y="24"
+       id="text7363"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;stroke-width:0.264583;fill:#800000"
+         x="292"
+         y="24"
+         id="tspan7361">проверка</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583;fill:#800000"
+       x="292"
+       y="28"
+       id="text7367"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;stroke-width:0.264583;fill:#800000"
+         x="292"
+         y="28"
+         id="tspan7365">приращение</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1L)"
+       d="m 308,2 v 8"
+       id="path7371" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
+       id="rect7377"
+       width="37"
+       height="15"
+       x="290"
+       y="38" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="293.59689"
+       y="47.119431"
+       id="text7381"><tspan
+         sodipodi:role="line"
+         id="tspan7379"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="293.59689"
+         y="47.119431">инструкция1;</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1L)"
+       d="m 308,30 v 8"
+       id="path7437" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1L)"
+       d="m 308,53 v 8"
+       id="path7443" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 290,66 4.99999,5 h 27.00002 L 327,66 v -5 h -37 z"
+       id="path7447"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1L)"
+       d="m 308,71 v 8"
+       id="path7451" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="292"
+       y="16"
+       id="text7459"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="292"
+         y="16"
+         id="tspan7457">имя цикла</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 345,27 4.99999,-5 h 27.00002 L 382,27 v 8 h -37 z"
+       id="path7574"
+       sodipodi:nodetypes="ccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="347"
+       y="70.408821"
+       id="text7578"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="347"
+         y="70.408821"
+         id="tspan7576">имя цикла</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583;fill:#800000"
+       x="347"
+       y="33.370911"
+       id="text7586"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;stroke-width:0.264583;fill:#800000"
+         x="347"
+         y="33.370911"
+         id="tspan7584">проверка</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1L)"
+       d="M 363,14.462091 V 22"
+       id="path7592"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
+       id="rect7594"
+       width="37"
+       height="15"
+       x="345"
+       y="43" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="347.40598"
+       y="49.086113"
+       id="text7598"><tspan
+         sodipodi:role="line"
+         id="tspan7596"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="347.40598"
+         y="49.086113">инструкция1;</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1L)"
+       d="m 363,35 v 8"
+       id="path7600" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1L)"
+       d="m 363,58 v 8"
+       id="path7602" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 345,71 4.99999,5 h 27.00002 L 382,71 v -5 h -37 z"
+       id="path7604"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1L)"
+       d="m 363,76 v 8"
+       id="path7606" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="347"
+       y="29.370913"
+       id="text7610"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="347"
+         y="29.370913"
+         id="tspan7608">имя цикла</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
+       id="rect7622"
+       width="37"
+       height="5.5"
+       x="345"
+       y="9" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583;fill:#800000"
+       x="347"
+       y="12.870913"
+       id="text7582"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;stroke-width:0.264583;fill:#800000"
+         x="347"
+         y="12.870913"
+         id="tspan7580">инициализация</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583;fill:#800000"
+       x="347"
+       y="55.119434"
+       id="text7590"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;stroke-width:0.264583;fill:#800000"
+         x="347"
+         y="55.119434"
+         id="tspan7588">приращение</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1L)"
+       d="M 363,1 V 9"
+       id="path7628" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 400,71 4.99999,5 h 27.00002 L 437,71 v -8 h -37 z"
+       id="path7642"
+       sodipodi:nodetypes="ccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="402"
+       y="71.408821"
+       id="text7646"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="402"
+         y="71.408821"
+         id="tspan7644">имя цикла</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583;fill:#800000"
+       x="402"
+       y="67.370911"
+       id="text7650"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;stroke-width:0.264583;fill:#800000"
+         x="402"
+         y="67.370911"
+         id="tspan7648">проверка</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1L)"
+       d="M 418,14.462091 V 22"
+       id="path7652"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
+       id="rect7654"
+       width="37"
+       height="15"
+       x="400"
+       y="40" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="402.40598"
+       y="46.086113"
+       id="text7658"><tspan
+         sodipodi:role="line"
+         id="tspan7656"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="402.40598"
+         y="46.086113">инструкция1;</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1L)"
+       d="m 418,32 v 8"
+       id="path7660" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1L)"
+       d="m 418,55 v 8"
+       id="path7662" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 400,27 4.99999,-5 h 27.00002 L 437,27 v 5 h -37 z"
+       id="path7664"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1L)"
+       d="m 418,76 v 8"
+       id="path7666" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="402"
+       y="28.370913"
+       id="text7670"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="402"
+         y="28.370913"
+         id="tspan7668">имя цикла</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
+       id="rect7672"
+       width="37"
+       height="5.5"
+       x="400"
+       y="9" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583;fill:#800000"
+       x="402"
+       y="12.870913"
+       id="text7676"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;stroke-width:0.264583;fill:#800000"
+         x="402"
+         y="12.870913"
+         id="tspan7674">инициализация</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583;fill:#800000"
+       x="402"
+       y="52.119434"
+       id="text7680"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;stroke-width:0.264583;fill:#800000"
+         x="402"
+         y="52.119434"
+         id="tspan7678">приращение</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1L)"
+       d="M 418,1 V 9"
+       id="path7682" />
+  </g>
+</svg>
