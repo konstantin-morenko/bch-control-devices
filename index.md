@@ -141,3 +141,4 @@
 
 Любая обратная связь со мной:
 [web@konstantin-morenko.ru](mailto:web@konstantin-morenko.ru).
+В теме письма укажите: *Группа* *Фамилия* *Вопрос*
